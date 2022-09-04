@@ -1,0 +1,46 @@
+.flex-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-split-topbottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.flex-split-leftright {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+
+.vertical-spacing-1 {
+  margin: 1em 0;
+}
+
+.vertical-spacing-2 {
+  margin: 2em 0;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.thick-1 {
+  margin: 2em;
+}
+
+.thick-2 {
+  margin: 4em;
+}
+
+.thick-3 {
+  margin: 6em;
+}

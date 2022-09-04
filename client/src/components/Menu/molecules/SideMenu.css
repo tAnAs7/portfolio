@@ -1,0 +1,7 @@
+[class*="disableLink"] > li {
+  background-color: darkgray;
+}
+
+[class*="disableLink"] .currentItemText > span {
+  font-weight: bold;
+}
